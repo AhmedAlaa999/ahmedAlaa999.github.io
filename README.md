@@ -27,7 +27,7 @@ This project simulates an online store where users can browse games, view detail
 
 🛠️ Built With
 --------------
-1-HTML5
+1-HTML
 
 2-CSS
 
