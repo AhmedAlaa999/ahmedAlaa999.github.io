@@ -29,7 +29,7 @@ This project simulates an online store where users can browse games, view detail
 --------------
 1-HTML5
 
-2-CSS3
+2-CSS
 
 3-JavaScript
 
